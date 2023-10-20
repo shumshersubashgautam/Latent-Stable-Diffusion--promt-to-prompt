@@ -1,4 +1,4 @@
-# Latent-Stable-Diffusion--promt-to-prompt
+
 **Prompt-to-Prompt**
 Setup
 This code was tested with Python 3.8, Pytorch 1.11 using pre-trained models through huggingface / diffusers. Specifically, we implemented our method over Latent Diffusion and Stable Diffusion. Additional required packages are listed in the requirements file. The code was tested on a Tesla V100 16GB but should work on other cards with at least 12GB VRAM.
